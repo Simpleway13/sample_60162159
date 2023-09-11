@@ -1,1 +1,1 @@
-# sample_project
+# 공개SW공학_수업
